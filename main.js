@@ -28,7 +28,7 @@ function getNeighbors(id) {
     6: [2, 3, 5, 6, 8, 9],
     7: [4, 5, 7, 8],
     8: [4, 5, 6, 7, 8, 9],
-    9: [5, 6, 8, 9]
+    9: [6, 8, 9]
   };
   return neighbors[id];
 }
